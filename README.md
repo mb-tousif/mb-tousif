@@ -1,4 +1,4 @@
-## Hi there 👋, I am AZIZUL HAQUE TOUSIF.
+## Hi There 👋, I am AZIZUL HAQUE TOUSIF.
 ### MERN Stack Developer || React Developer || Enthusiast in Web Application Development.
 
 ### 🗒 &nbsp;About Me
