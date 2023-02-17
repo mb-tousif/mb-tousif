@@ -6,13 +6,13 @@
 As a MERN Stack web developer with talented, innovative, enthusiastic, quick learner and hands on experienced web developer with strong dedication to code in order to help building functional, scalable and responsive web applications. Have the capability to work closely with other developers and creative team members. I continuously learn and expand my knowledge of the latest technologies.
 </p>
 <br/>
-<li>🔭 I’m currently working on Web Development.</li>
-<li>🌱 I’m currently learning Python || SQL || React Native.</li>
-<li>👯 I’m looking to collaborate on GitHub.</li>
-<li>🤔 I’m looking for help with MERN || Full Stack Web Development.</li>
-<li>💬 Ask me about anything web-related, I might have a hint.</li>
-<li>📫 How to reach me: <a href="mailto:meta.block.tousif@gmail.com">meta.block.tousif@gmail.com</a></li>
-<li>📖 Read my Blogs: <a href="https://medium.com/@programmer.decoder.2021">Medium</a></li>
+🎯&nbsp;&nbsp;🔭 I’m currently working on Web Development.<br/>
+🎯&nbsp;&nbsp;🌱 I’m currently learning Python || SQL.<br/>
+🎯&nbsp;&nbsp;👯 I’m looking to collaborate on GitHub.<br/>
+🎯&nbsp;&nbsp;🤔 I’m looking for help with MERN || Full Stack Web Development.<br/>
+🎯&nbsp;&nbsp;💬 Ask me about anything web-related, I might have a hint.<br/>
+🎯&nbsp;&nbsp;📫 How to reach me: <a href="mailto:meta.block.tousif@gmail.com">meta.block.tousif@gmail.com</a><br/>
+🎯&nbsp;&nbsp;📖 Read my Blogs: <a href="https://medium.com/@programmer.decoder.2021">Medium</a><br/>
 <br/>
 
 <div>
@@ -59,11 +59,15 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 ### 💻 Software and tools
 <p align="center">
 <img alt="Visual Studio Code" height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Github" height="25" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 <img alt="NPM" height="25" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 <img alt="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 <img alt="Trello" height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img alt="Medium" height="25" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+<img alt="Figma" height="25" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Terminal" height="25" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+<img alt="Powershell" height="25" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 <img alt="Discord" height="25" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
 <img alt="Photopea" height="25" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
 <img alt="Premiere Pro" height="25" src="https://aleen42.github.io/badges/src/premiere.svg">
@@ -73,4 +77,4 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-tousif&show_icons=true&locale=en" alt="mb-tousif" width="350" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb-tousif&bg_color=025174&color=cecece&line=08a112&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb-tousif&bg_color=025174&color=cecece&line=08a112&point=403d3d&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-stats.vercel.app/api/top-langs/?&bg_color=025174&color=cecece&line=08a112&point=403d3d&area=true&hide_border=true))
