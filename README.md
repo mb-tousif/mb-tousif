@@ -60,7 +60,7 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 <p align="center">
 <img alt="Visual Studio Code" height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-<img alt="NPM" height="25" src="[https://aleen42.github.io/badges/src/premiere.svg](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)">
+<img alt="NPM" height="25" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 <img alt="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 <img alt="Trello" height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
