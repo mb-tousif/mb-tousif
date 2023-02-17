@@ -1,4 +1,5 @@
-## <h2 align="center">Thanks for Stopping by! 🌠<br/>Welcome to my virtual workspace!</h2>
+## <h2 align="center">Thanks for Stopping by! 🪑<br/>Welcome to my virtual workspace!</h2>
+<h2>I am Tousif 🌠</h2> 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=26&pause=1000&color=18BA3C&width=435&lines=A+Passionate+Self-taught+Learner;Enthusiast+in+Web+Application+Development;MERN+Stack+Developer;Always+learn+and+explore+the+latest+technologies." alt="Typing SVG" />
 </p>
