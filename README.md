@@ -77,4 +77,3 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-tousif&show_icons=true&locale=en" alt="mb-tousif" width="350" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb-tousif&bg_color=025174&color=cecece&line=08a112&point=403d3d&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-stats.vercel.app/api/top-langs/?&bg_color=025174&color=cecece&line=08a112&point=403d3d&area=true&hide_border=true))
