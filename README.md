@@ -9,9 +9,9 @@
 As a MERN Stack web developer with talented, innovative, enthusiastic, quick learner and hands on experienced web developer with strong dedication to code in order to help building functional, scalable and responsive web applications. Have the capability to work closely with other developers and creative team members. I continuously learn and expand my knowledge of the latest technologies.
 </p>
 <br/>
-<p align='center'><em><b>🫵 Coming together is a beginning; keeping together is progress 🐾; working together is success 🗝️.</b></em>
+<p align='center'><em><b>🫵&nbsp; Coming together is a beginning, <br/> keeping together is progress&nbsp; 🐾<br/> working together is success&nbsp; 🗝️</b></em>
 <br/>
- <em><b>- Henry Ford</b></em>
+ <em><b>💡&nbsp; Henry Ford</b></em>
 <br>
 </p>
 <br/>
