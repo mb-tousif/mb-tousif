@@ -9,6 +9,12 @@
 As a MERN Stack web developer with talented, innovative, enthusiastic, quick learner and hands on experienced web developer with strong dedication to code in order to help building functional, scalable and responsive web applications. Have the capability to work closely with other developers and creative team members. I continuously learn and expand my knowledge of the latest technologies.
 </p>
 <br/>
+<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<br/>
+ <em><b>- Henry Ford</b></em>
+<br>
+</p>
+<br/>
 🎯&nbsp;&nbsp;🔭 I’m currently working on Web Development.<br/>
 🎯&nbsp;&nbsp;🌱 I’m currently learning Python || SQL.<br/>
 🎯&nbsp;&nbsp;👯 I’m looking to collaborate on GitHub.<br/>
@@ -82,7 +88,3 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb-tousif&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
-<br/>
- <em><b>- Henry Ford</b></em>
-<br><br/>
