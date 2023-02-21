@@ -25,7 +25,7 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 <br/>
 
 <div>
-<img src="./dev.png" align="center" width="100%" height="350px">
+<img src="./dev.png" align="center" width="100%" height="300px" style="border-radius: 30px;">
 </div>
 
 ## 🛠️ My favorite Technologies and Tools
