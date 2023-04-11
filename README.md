@@ -39,7 +39,6 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="25" alt="TypeScript" />
 <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" alt="SQL" height="25" />
 <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python" height="25" />
-<img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" alt="Java" height="25" />
 </p>
 
 ### 🧰 Frameworks and libraries
