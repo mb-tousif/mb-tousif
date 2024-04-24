@@ -18,7 +18,7 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 🎯&nbsp;&nbsp;🔭 I’m currently working on Web Development.<br/>
 🎯&nbsp;&nbsp;🌱 I’m currently learning AWS<br/>
 🎯&nbsp;&nbsp;👯 I’m looking to collaborate on GitHub.<br/>
-🎯&nbsp;&nbsp;🤔 I’m looking for help with MERN || Full Stack Web Development.<br/>
+🎯&nbsp;&nbsp;🤔 I’m looking for help with MERN || PERN || Full Stack Web Development.<br/>
 🎯&nbsp;&nbsp;💬 Ask me about anything web-related, I might have a hint.<br/>
 🎯&nbsp;&nbsp;📫 How to reach me: <a href="mailto:meta.block.tousif@gmail.com">meta.block.tousif@gmail.com</a><br/>
 🎯&nbsp;&nbsp;📖 Read my Blogs: <a href="https://medium.com/@programmer.decoder.2021">Medium</a><br/>
