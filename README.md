@@ -1,6 +1,11 @@
 ## <h2 align="center">🪑 Thanks for Stopping by! <br/>Welcome to my virtual workspace!</h2>
 <h2 display="inline">I am Tousif <img src="./developer.gif" width="40px" height="40px"></h2> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=900&size=28&pause=1000&color=7A36F7&center=true&vCenter=true&random=false&width=800&height=200&lines=Full+Stack+Web+Developer+(+MERN+%26+PERN+);Enthusiast+in+Web+Application+Development;A+Passionate+Self-taught+Learner;Always+learn+and+explore+the+latest+technologies.)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cookie&size=26&pause=1000&color=18BA3C&width=435&lines=A+Passionate+Self-taught+Learner;Enthusiast+in+Web+Application+Development;MERN+Stack+Developer;Always+learn+and+explore+the+latest+technologies." alt="Typing SVG" />
+ </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cookie&size=26&pause=1000&color=18BA3C&width=435&lines=A+Passionate+Self-taught+Learner;Enthusiast+in+Web+Application+Development;MERN+Stack+Developer;Always+learn+and+explore+the+latest+technologies." alt="Typing SVG" />
+</p>
 
 ## 🧬 &nbsp;About Me
 <p>
