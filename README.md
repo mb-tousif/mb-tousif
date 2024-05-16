@@ -19,7 +19,7 @@ As a MERN Stack web developer with talented, innovative, enthusiastic, quick lea
 </p>
 <br/>
 🎯&nbsp;&nbsp;🔭 I’m currently working on Web Development.<br/>
-🎯&nbsp;&nbsp;🌱 I’m currently learning AWS<br/>
+🎯&nbsp;&nbsp;🌱 I’m currently learning AWS, GraphQl, Nest.js <br/>
 🎯&nbsp;&nbsp;👯 I’m looking to collaborate on GitHub.<br/>
 🎯&nbsp;&nbsp;🤔 I’m looking for help with MERN || PERN || Full Stack Web Development.<br/>
 🎯&nbsp;&nbsp;💬 Ask me about anything web-related, I might have a hint.<br/>
